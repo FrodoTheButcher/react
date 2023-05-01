@@ -1,0 +1,16 @@
+header{
+    background:#03a9f4;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.logo
+{
+    color:'#fff';
+    font-family:'cursive';
+    text-align:'Center';
+}
+.news_item{
+    background-color: green;
+}

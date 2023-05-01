@@ -1,0 +1,27 @@
+ [
+          {
+            "id": 1,
+            "title": "News Update",
+            "feed": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac lectus eget lectus eleifend pellentesque."
+          },
+          {
+            "id": 2,
+            "title": "Sports Highlights",
+            "feed": "Nullam convallis neque eu ipsum pulvinar, ut semper est facilisis. Mauris eu lacinia diam."
+          },
+          {
+            "id": 3,
+            "title": "Tech Trends",
+            "feed": "Vestibulum quis nibh non orci hendrerit egestas. Etiam sed turpis at tortor vestibulum accumsan id id augue."
+          },
+          {
+            "id": 4,
+            "title": "Entertainment Buzz",
+            "feed": "Suspendisse cursus nulla id libero aliquam, in fringilla sapien ullamcorper. Curabitur vitae fringilla diam."
+          },
+          {
+            "id": 5,
+            "title": "Health Tips",
+            "feed": "Phasellus consequat metus ut felis iaculis rutrum. Fusce condimentum augue ut dapibus tristique."
+          }
+ ]
